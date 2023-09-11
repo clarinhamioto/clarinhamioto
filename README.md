@@ -1,7 +1,7 @@
 - Hi, I'm Clara
 - I'm here because I'm a good programmer
 - I'm Brazilian
-- I'm 16 yeras old
+- I'm 16 years old
 - I'm Harry Potter fan 
 
 <!---
